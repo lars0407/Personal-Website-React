@@ -16,9 +16,11 @@
   width: 100%;
   display: flex;
   max-width: 500px;
+  margin-top: auto;
   align-items: flex-start;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: auto;
   flex-direction: column;
 }
 .Section {
